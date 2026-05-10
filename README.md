@@ -39,9 +39,14 @@ git clone https://github.com/yourusername/secure-password-generator.git
 cd secure-password-generator
 python3 main.py
 ```
+## Requirements
+
+- Python 3.x
+```bash
+No external dependencies are required because this project uses only Python standard library modules.
+```
 
 ---
-
 ## Usage
 
 Display all commands:
